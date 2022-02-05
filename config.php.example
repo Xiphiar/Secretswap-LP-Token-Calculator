@@ -1,0 +1,7 @@
+<?php
+   $host = 'localhost';
+   $database = 'scrt_contracts';
+   $username = 'read-write-user';
+   $password = 'S3cur3P455w0rd!';
+   $backendurl = "https://scrthost.xiphiar.com:3443/";
+?>
